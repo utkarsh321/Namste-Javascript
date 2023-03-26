@@ -6,7 +6,7 @@ const heading = React.createElement(
         
 
 const parent = React.createElement("div",{id : "parent"},[
-React.createElement{"div",},[
+React.createElement{"div"},[
     React.createElement("h1",{},"I'm on h1 tag"),
     React.createElement("h2",{},"I'm on the h2 tag"),
 ]),
